@@ -1,0 +1,14 @@
+{
+  "compilerOptions": {
+    "module": "commonjs",
+    "jsx": "react",
+    "jsxFactory": "React.createElement",
+    "resolveJsonModule": true,
+    "esModuleInterop": true,
+    "sourceMap": true,
+    "lib": ["ES6", "DOM"],
+    "rootDir": "./src"
+  },
+  "include": ["./src/**/*.tsx"],
+  "exclude": ["node_modules"]
+}

@@ -1,0 +1,2097 @@
+{
+  "wormadam": {
+    "pokemon": {
+      "base_happiness": 70,
+      "capture_rate": 45,
+      "color": {
+        "name": "green",
+        "url": "https://pokeapi.co/api/v2/pokemon-color/5/"
+      },
+      "egg_groups": [
+        {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/egg-group/3/"
+        }
+      ],
+      "evolution_chain": {
+        "url": "https://pokeapi.co/api/v2/evolution-chain/213/"
+      },
+      "evolves_from_species": {
+        "name": "burmy",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/412/"
+      },
+      "flavor_text_entries": [
+        {
+          "flavor_text": "When BURMY evolved, its cloak\nbecame a part of this Pokémon’s\nbody. The cloak is never shed.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "diamond",
+            "url": "https://pokeapi.co/api/v2/version/12/"
+          }
+        },
+        {
+          "flavor_text": "Its appearance changes depending\non where it evolved. The materials\non hand become a part of its body.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "pearl",
+            "url": "https://pokeapi.co/api/v2/version/13/"
+          }
+        },
+        {
+          "flavor_text": "When evolving, its body takes in\nsurrounding materials. As a result,\nthere are many body variations.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "platinum",
+            "url": "https://pokeapi.co/api/v2/version/14/"
+          }
+        },
+        {
+          "flavor_text": "It is said that a WORMADAM that\nevolves on a cold day will have a\nthicker cloak.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "heartgold",
+            "url": "https://pokeapi.co/api/v2/version/15/"
+          }
+        },
+        {
+          "flavor_text": "It is said that a WORMADAM that\nevolves on a cold day will have a\nthicker cloak.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "soulsilver",
+            "url": "https://pokeapi.co/api/v2/version/16/"
+          }
+        },
+        {
+          "flavor_text": "À l’évolution, son corps absorbe\nles matériaux à proximité et peut\nainsi présenter divers aspects.",
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          },
+          "version": {
+            "name": "black",
+            "url": "https://pokeapi.co/api/v2/version/17/"
+          }
+        },
+        {
+          "flavor_text": "When evolving, its body takes in\nsurrounding materials. As a result,\nthere are many body variations.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "black",
+            "url": "https://pokeapi.co/api/v2/version/17/"
+          }
+        },
+        {
+          "flavor_text": "À l’évolution, son corps absorbe\nles matériaux à proximité et peut\nainsi présenter divers aspects.",
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          },
+          "version": {
+            "name": "white",
+            "url": "https://pokeapi.co/api/v2/version/18/"
+          }
+        },
+        {
+          "flavor_text": "When evolving, its body takes in\nsurrounding materials. As a result,\nthere are many body variations.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "white",
+            "url": "https://pokeapi.co/api/v2/version/18/"
+          }
+        },
+        {
+          "flavor_text": "When evolving, its body takes in\nsurrounding materials. As a result,\nthere are many body variations.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "black-2",
+            "url": "https://pokeapi.co/api/v2/version/21/"
+          }
+        },
+        {
+          "flavor_text": "When evolving, its body takes in\nsurrounding materials. As a result,\nthere are many body variations.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "white-2",
+            "url": "https://pokeapi.co/api/v2/version/22/"
+          }
+        },
+        {
+          "flavor_text": "しんかした　ばしょによって　すがたが\nかわる。みぢかにある　ざいりょうが\nからだの　いちぶに　なるのだ。",
+          "language": {
+            "name": "ja-Hrkt",
+            "url": "https://pokeapi.co/api/v2/language/1/"
+          },
+          "version": {
+            "name": "x",
+            "url": "https://pokeapi.co/api/v2/version/23/"
+          }
+        },
+        {
+          "flavor_text": "진화한 장소에 따라 모습이\n바뀐다. 가까이 있는 재료가\n몸의 일부가 된다.",
+          "language": {
+            "name": "ko",
+            "url": "https://pokeapi.co/api/v2/language/3/"
+          },
+          "version": {
+            "name": "x",
+            "url": "https://pokeapi.co/api/v2/version/23/"
+          }
+        },
+        {
+          "flavor_text": "Son apparence varie selon le lieu d’évolution. Son\ncorps est façonné avec les matériaux à disposition.",
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          },
+          "version": {
+            "name": "x",
+            "url": "https://pokeapi.co/api/v2/version/23/"
+          }
+        },
+        {
+          "flavor_text": "Die Umgebung, in der es sich entwickelt, bestimmt\nsein Aussehen. Es formt seinen Körper mithilfe\nder umliegenden Materialien.",
+          "language": {
+            "name": "de",
+            "url": "https://pokeapi.co/api/v2/language/6/"
+          },
+          "version": {
+            "name": "x",
+            "url": "https://pokeapi.co/api/v2/version/23/"
+          }
+        },
+        {
+          "flavor_text": "Su apariencia varía según dónde evolucione. Los\nmateriales que haya pasan a formar parte de su\ncuerpo.",
+          "language": {
+            "name": "es",
+            "url": "https://pokeapi.co/api/v2/language/7/"
+          },
+          "version": {
+            "name": "x",
+            "url": "https://pokeapi.co/api/v2/version/23/"
+          }
+        },
+        {
+          "flavor_text": "Il suo aspetto dipende dal luogo in cui si evolve.\nTutto ciò che ha intorno va a costituire il suo corpo.",
+          "language": {
+            "name": "it",
+            "url": "https://pokeapi.co/api/v2/language/8/"
+          },
+          "version": {
+            "name": "x",
+            "url": "https://pokeapi.co/api/v2/version/23/"
+          }
+        },
+        {
+          "flavor_text": "Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "x",
+            "url": "https://pokeapi.co/api/v2/version/23/"
+          }
+        },
+        {
+          "flavor_text": "進化した　場所によって\n姿が　変わる。身近にある　材料が\n体の　一部に　なるのだ。",
+          "language": {
+            "name": "ja",
+            "url": "https://pokeapi.co/api/v2/language/11/"
+          },
+          "version": {
+            "name": "x",
+            "url": "https://pokeapi.co/api/v2/version/23/"
+          }
+        },
+        {
+          "flavor_text": "ミノムッチから　しんかしたとき\nミノが　からだの　いちぶに　なった。\nいっしょう　ミノを　ぬぐことはない。",
+          "language": {
+            "name": "ja-Hrkt",
+            "url": "https://pokeapi.co/api/v2/language/1/"
+          },
+          "version": {
+            "name": "y",
+            "url": "https://pokeapi.co/api/v2/version/24/"
+          }
+        },
+        {
+          "flavor_text": "도롱충이로부터 진화할 때\n도롱이가 몸의 일부가 되었다.\n일생 도롱이를 벗는 일은 없다.",
+          "language": {
+            "name": "ko",
+            "url": "https://pokeapi.co/api/v2/language/3/"
+          },
+          "version": {
+            "name": "y",
+            "url": "https://pokeapi.co/api/v2/version/24/"
+          }
+        },
+        {
+          "flavor_text": "Quand Cheniti a évolué, sa cape a fusionné avec son\ncorps. Cheniselle ne s’en sépare jamais.",
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          },
+          "version": {
+            "name": "y",
+            "url": "https://pokeapi.co/api/v2/version/24/"
+          }
+        },
+        {
+          "flavor_text": "Als sich Burmy entwickelte, wurde sein Umhang\nTeil des Körpers. Es legt den Umhang niemals ab.",
+          "language": {
+            "name": "de",
+            "url": "https://pokeapi.co/api/v2/language/6/"
+          },
+          "version": {
+            "name": "y",
+            "url": "https://pokeapi.co/api/v2/version/24/"
+          }
+        },
+        {
+          "flavor_text": "Cuando Burmy evolucionó, su caparazón pasó a formar\nparte de este Pokémon.",
+          "language": {
+            "name": "es",
+            "url": "https://pokeapi.co/api/v2/language/7/"
+          },
+          "version": {
+            "name": "y",
+            "url": "https://pokeapi.co/api/v2/version/24/"
+          }
+        },
+        {
+          "flavor_text": "Con l’evoluzione, il manto di Burmy diventa parte del\ncorpo di questo Pokémon. Non se ne separa mai.",
+          "language": {
+            "name": "it",
+            "url": "https://pokeapi.co/api/v2/language/8/"
+          },
+          "version": {
+            "name": "y",
+            "url": "https://pokeapi.co/api/v2/version/24/"
+          }
+        },
+        {
+          "flavor_text": "When Burmy evolved, its cloak became a part of\nthis Pokémon’s body. The cloak is never shed.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "y",
+            "url": "https://pokeapi.co/api/v2/version/24/"
+          }
+        },
+        {
+          "flavor_text": "ミノムッチから　進化したとき\nミノが　体の　一部に　なった。\n一生　ミノを　脱ぐことはない。",
+          "language": {
+            "name": "ja",
+            "url": "https://pokeapi.co/api/v2/language/11/"
+          },
+          "version": {
+            "name": "y",
+            "url": "https://pokeapi.co/api/v2/version/24/"
+          }
+        },
+        {
+          "flavor_text": "しんかした　ばしょによって　すがたが\nかわる。みぢかにある　ざいりょうが\nからだの　いちぶに　なるのだ。",
+          "language": {
+            "name": "ja-Hrkt",
+            "url": "https://pokeapi.co/api/v2/language/1/"
+          },
+          "version": {
+            "name": "omega-ruby",
+            "url": "https://pokeapi.co/api/v2/version/25/"
+          }
+        },
+        {
+          "flavor_text": "진화한 장소에 따라 모습이\n바뀐다. 가까이 있는 재료가\n몸의 일부가 된다.",
+          "language": {
+            "name": "ko",
+            "url": "https://pokeapi.co/api/v2/language/3/"
+          },
+          "version": {
+            "name": "omega-ruby",
+            "url": "https://pokeapi.co/api/v2/version/25/"
+          }
+        },
+        {
+          "flavor_text": "Son apparence varie selon le lieu d’évolution. Son corps est\nfaçonné avec les matériaux à disposition.",
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          },
+          "version": {
+            "name": "omega-ruby",
+            "url": "https://pokeapi.co/api/v2/version/25/"
+          }
+        },
+        {
+          "flavor_text": "Die Umgebung, in der es sich entwickelt, bestimmt sein\nAussehen. Es formt seinen Körper mithilfe der umliegenden\nMaterialien.",
+          "language": {
+            "name": "de",
+            "url": "https://pokeapi.co/api/v2/language/6/"
+          },
+          "version": {
+            "name": "omega-ruby",
+            "url": "https://pokeapi.co/api/v2/version/25/"
+          }
+        },
+        {
+          "flavor_text": "Su apariencia varía según dónde evolucione. Los materiales\nque haya pasan a formar parte de su cuerpo.",
+          "language": {
+            "name": "es",
+            "url": "https://pokeapi.co/api/v2/language/7/"
+          },
+          "version": {
+            "name": "omega-ruby",
+            "url": "https://pokeapi.co/api/v2/version/25/"
+          }
+        },
+        {
+          "flavor_text": "Il suo aspetto dipende dal luogo in cui si evolve. Tutto ciò\nche ha intorno va a costituire il suo corpo.",
+          "language": {
+            "name": "it",
+            "url": "https://pokeapi.co/api/v2/language/8/"
+          },
+          "version": {
+            "name": "omega-ruby",
+            "url": "https://pokeapi.co/api/v2/version/25/"
+          }
+        },
+        {
+          "flavor_text": "Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "omega-ruby",
+            "url": "https://pokeapi.co/api/v2/version/25/"
+          }
+        },
+        {
+          "flavor_text": "進化した　場所によって\n姿が　変わる。身近にある　材料が\n体の　一部に　なるのだ。",
+          "language": {
+            "name": "ja",
+            "url": "https://pokeapi.co/api/v2/language/11/"
+          },
+          "version": {
+            "name": "omega-ruby",
+            "url": "https://pokeapi.co/api/v2/version/25/"
+          }
+        },
+        {
+          "flavor_text": "ミノムッチから　しんかしたとき\nミノが　からだの　いちぶに　なった。\nいっしょう　ミノを　ぬぐことはない。",
+          "language": {
+            "name": "ja-Hrkt",
+            "url": "https://pokeapi.co/api/v2/language/1/"
+          },
+          "version": {
+            "name": "alpha-sapphire",
+            "url": "https://pokeapi.co/api/v2/version/26/"
+          }
+        },
+        {
+          "flavor_text": "도롱충이로부터 진화할 때\n도롱이가 몸의 일부가 되었다.\n일생 도롱이를 벗는 일은 없다.",
+          "language": {
+            "name": "ko",
+            "url": "https://pokeapi.co/api/v2/language/3/"
+          },
+          "version": {
+            "name": "alpha-sapphire",
+            "url": "https://pokeapi.co/api/v2/version/26/"
+          }
+        },
+        {
+          "flavor_text": "Quand Cheniti a évolué, sa cape a fusionné avec son corps.\nCheniselle ne s’en sépare jamais.",
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          },
+          "version": {
+            "name": "alpha-sapphire",
+            "url": "https://pokeapi.co/api/v2/version/26/"
+          }
+        },
+        {
+          "flavor_text": "Als sich Burmy entwickelte, wurde sein Umhang Teil\ndes Körpers. Es legt den Umhang niemals ab.",
+          "language": {
+            "name": "de",
+            "url": "https://pokeapi.co/api/v2/language/6/"
+          },
+          "version": {
+            "name": "alpha-sapphire",
+            "url": "https://pokeapi.co/api/v2/version/26/"
+          }
+        },
+        {
+          "flavor_text": "Cuando Burmy evolucionó, su caparazón pasó a formar parte\nde este Pokémon.",
+          "language": {
+            "name": "es",
+            "url": "https://pokeapi.co/api/v2/language/7/"
+          },
+          "version": {
+            "name": "alpha-sapphire",
+            "url": "https://pokeapi.co/api/v2/version/26/"
+          }
+        },
+        {
+          "flavor_text": "Con l’evoluzione, il manto di Burmy diventa parte del corpo\ndi questo Pokémon. Non se ne separa mai.",
+          "language": {
+            "name": "it",
+            "url": "https://pokeapi.co/api/v2/language/8/"
+          },
+          "version": {
+            "name": "alpha-sapphire",
+            "url": "https://pokeapi.co/api/v2/version/26/"
+          }
+        },
+        {
+          "flavor_text": "When Burmy evolved, its cloak became a part of\nthis Pokémon’s body. The cloak is never shed.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "alpha-sapphire",
+            "url": "https://pokeapi.co/api/v2/version/26/"
+          }
+        },
+        {
+          "flavor_text": "ミノムッチから　進化したとき\nミノが　体の　一部に　なった。\n一生　ミノを　脱ぐことはない。",
+          "language": {
+            "name": "ja",
+            "url": "https://pokeapi.co/api/v2/language/11/"
+          },
+          "version": {
+            "name": "alpha-sapphire",
+            "url": "https://pokeapi.co/api/v2/version/26/"
+          }
+        }
+      ],
+      "form_descriptions": [
+        {
+          "description": "Forms have different stats and movepools.  During evolution, Burmy's current cloak becomes Wormadam's form, and can no longer be changed.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          }
+        }
+      ],
+      "forms_switchable": false,
+      "gender_rate": 8,
+      "genera": [
+        {
+          "genus": "みのむしポケモン",
+          "language": {
+            "name": "ja-Hrkt",
+            "url": "https://pokeapi.co/api/v2/language/1/"
+          }
+        },
+        {
+          "genus": "도롱이벌레포켓몬",
+          "language": {
+            "name": "ko",
+            "url": "https://pokeapi.co/api/v2/language/3/"
+          }
+        },
+        {
+          "genus": "蓑衣蟲寶可夢",
+          "language": {
+            "name": "zh-Hant",
+            "url": "https://pokeapi.co/api/v2/language/4/"
+          }
+        },
+        {
+          "genus": "Pokémon Ver Caché",
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          }
+        },
+        {
+          "genus": "Beutelwurm",
+          "language": {
+            "name": "de",
+            "url": "https://pokeapi.co/api/v2/language/6/"
+          }
+        },
+        {
+          "genus": "Pokémon Larva",
+          "language": {
+            "name": "es",
+            "url": "https://pokeapi.co/api/v2/language/7/"
+          }
+        },
+        {
+          "genus": "Pokémon Larva",
+          "language": {
+            "name": "it",
+            "url": "https://pokeapi.co/api/v2/language/8/"
+          }
+        },
+        {
+          "genus": "Bagworm Pokémon",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          }
+        },
+        {
+          "genus": "みのむしポケモン",
+          "language": {
+            "name": "ja",
+            "url": "https://pokeapi.co/api/v2/language/11/"
+          }
+        },
+        {
+          "genus": "蓑衣虫宝可梦",
+          "language": {
+            "name": "zh-Hans",
+            "url": "https://pokeapi.co/api/v2/language/12/"
+          }
+        }
+      ],
+      "generation": {
+        "name": "generation-iv",
+        "url": "https://pokeapi.co/api/v2/generation/4/"
+      },
+      "growth_rate": {
+        "name": "medium",
+        "url": "https://pokeapi.co/api/v2/growth-rate/2/"
+      },
+      "habitat": null,
+      "has_gender_differences": false,
+      "hatch_counter": 15,
+      "id": 413,
+      "is_baby": false,
+      "name": "wormadam",
+      "names": [
+        {
+          "language": {
+            "name": "ja-Hrkt",
+            "url": "https://pokeapi.co/api/v2/language/1/"
+          },
+          "name": "ミノマダム"
+        },
+        {
+          "language": {
+            "name": "roomaji",
+            "url": "https://pokeapi.co/api/v2/language/2/"
+          },
+          "name": "Minomadam"
+        },
+        {
+          "language": {
+            "name": "ko",
+            "url": "https://pokeapi.co/api/v2/language/3/"
+          },
+          "name": "도롱마담"
+        },
+        {
+          "language": {
+            "name": "zh-Hant",
+            "url": "https://pokeapi.co/api/v2/language/4/"
+          },
+          "name": "結草貴婦"
+        },
+        {
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          },
+          "name": "Cheniselle"
+        },
+        {
+          "language": {
+            "name": "de",
+            "url": "https://pokeapi.co/api/v2/language/6/"
+          },
+          "name": "Burmadame"
+        },
+        {
+          "language": {
+            "name": "es",
+            "url": "https://pokeapi.co/api/v2/language/7/"
+          },
+          "name": "Wormadam"
+        },
+        {
+          "language": {
+            "name": "it",
+            "url": "https://pokeapi.co/api/v2/language/8/"
+          },
+          "name": "Wormadam"
+        },
+        {
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "name": "Wormadam"
+        },
+        {
+          "language": {
+            "name": "ja",
+            "url": "https://pokeapi.co/api/v2/language/11/"
+          },
+          "name": "ミノマダム"
+        },
+        {
+          "language": {
+            "name": "zh-Hans",
+            "url": "https://pokeapi.co/api/v2/language/12/"
+          },
+          "name": "结草贵妇"
+        }
+      ],
+      "order": 441,
+      "pal_park_encounters": [
+        {
+          "area": {
+            "name": "forest",
+            "url": "https://pokeapi.co/api/v2/pal-park-area/1/"
+          },
+          "base_score": 70,
+          "rate": 20
+        }
+      ],
+      "pokedex_numbers": [
+        {
+          "entry_number": 413,
+          "pokedex": {
+            "name": "national",
+            "url": "https://pokeapi.co/api/v2/pokedex/1/"
+          }
+        },
+        {
+          "entry_number": 46,
+          "pokedex": {
+            "name": "original-sinnoh",
+            "url": "https://pokeapi.co/api/v2/pokedex/5/"
+          }
+        },
+        {
+          "entry_number": 46,
+          "pokedex": {
+            "name": "extended-sinnoh",
+            "url": "https://pokeapi.co/api/v2/pokedex/6/"
+          }
+        },
+        {
+          "entry_number": 45,
+          "pokedex": {
+            "name": "kalos-central",
+            "url": "https://pokeapi.co/api/v2/pokedex/12/"
+          }
+        }
+      ],
+      "shape": {
+        "name": "blob",
+        "url": "https://pokeapi.co/api/v2/pokemon-shape/5/"
+      },
+      "varieties": [
+        {
+          "is_default": true,
+          "pokemon": {
+            "name": "wormadam-plant",
+            "url": "https://pokeapi.co/api/v2/pokemon/413/"
+          }
+        },
+        {
+          "is_default": false,
+          "pokemon": {
+            "name": "wormadam-sandy",
+            "url": "https://pokeapi.co/api/v2/pokemon/10004/"
+          }
+        },
+        {
+          "is_default": false,
+          "pokemon": {
+            "name": "wormadam-trash",
+            "url": "https://pokeapi.co/api/v2/pokemon/10005/"
+          }
+        }
+      ]
+    },
+    "translation": {
+      "success": {
+        "total": 1
+      },
+      "contents": {
+        "translated": "At which hour burmy evolved,  its cloak did doth becometh a part of this pokémon’s corse. The cloak is nev'r did shed.<br>Its appearance changes depending on where it evolved. The materials on hand become a part of its body.<br>When evolving,  its body takes in surrounding materials. As a result,  there are many body variations.<br>It is said that a WORMADAM that evolves on a cold day will have a thicker cloak.<br>It is said that a WORMADAM that evolves on a cold day will have a thicker cloak.<br>When evolving,  its body takes in surrounding materials. As a result,  there are many body variations.<br>When evolving,  its body takes in surrounding materials. As a result,  there are many body variations.<br>When evolving,  its body takes in surrounding materials. As a result,  there are many body variations.<br>When evolving,  its body takes in surrounding materials. As a result,  there are many body variations.<br>Its appearance changes depending on where it evolved. The materials on hand become a part of its body.<br>When Burmy evolved,  its cloak became a part of this Pokémon’s body. The cloak is never shed.<br>Its appearance changes depending on where it evolved. The materials on hand become a part of its body.<br>When Burmy evolved,  its cloak became a part of this Pokémon’s body. The cloak is never shed.",
+        "text": "When BURMY evolved, its cloak\nbecame a part of this Pokémon’s\nbody. The cloak is never shed.<br>Its appearance changes depending\non where it evolved. The materials\non hand become a part of its body.<br>When evolving, its body takes in\nsurrounding materials. As a result,\nthere are many body variations.<br>It is said that a WORMADAM that\nevolves on a cold day will have a\nthicker cloak.<br>It is said that a WORMADAM that\nevolves on a cold day will have a\nthicker cloak.<br>When evolving, its body takes in\nsurrounding materials. As a result,\nthere are many body variations.<br>When evolving, its body takes in\nsurrounding materials. As a result,\nthere are many body variations.<br>When evolving, its body takes in\nsurrounding materials. As a result,\nthere are many body variations.<br>When evolving, its body takes in\nsurrounding materials. As a result,\nthere are many body variations.<br>Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body.<br>When Burmy evolved, its cloak became a part of\nthis Pokémon’s body. The cloak is never shed.<br>Its appearance changes depending on where it\nevolved. The materials on hand become a part of\nits body.<br>When Burmy evolved, its cloak became a part of\nthis Pokémon’s body. The cloak is never shed.",
+        "translation": "shakespeare"
+      }
+    }
+  },
+  "butterfree": {
+    "pokemon": {
+      "base_happiness": 70,
+      "capture_rate": 45,
+      "color": {
+        "name": "white",
+        "url": "https://pokeapi.co/api/v2/pokemon-color/9/"
+      },
+      "egg_groups": [
+        {
+          "name": "bug",
+          "url": "https://pokeapi.co/api/v2/egg-group/3/"
+        }
+      ],
+      "evolution_chain": {
+        "url": "https://pokeapi.co/api/v2/evolution-chain/4/"
+      },
+      "evolves_from_species": {
+        "name": "metapod",
+        "url": "https://pokeapi.co/api/v2/pokemon-species/11/"
+      },
+      "flavor_text_entries": [
+        {
+          "flavor_text": "It collects honey\nevery day. It rubs\nhoney onto the\fhairs on its legs\nto carry it back\nto its nest.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "gold",
+            "url": "https://pokeapi.co/api/v2/version/4/"
+          }
+        },
+        {
+          "flavor_text": "Water-repellent\npowder on its\nwings enables it\fto collect honey,\neven in the heav­\niest of rains.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "silver",
+            "url": "https://pokeapi.co/api/v2/version/5/"
+          }
+        },
+        {
+          "flavor_text": "In battle, it\nflaps its wings\nat high speed to\frelease highly\ntoxic dust into\nthe air.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "red",
+            "url": "https://pokeapi.co/api/v2/version/1/"
+          }
+        },
+        {
+          "flavor_text": "In battle, it\nflaps its wings\nat high speed to\frelease highly\ntoxic dust into\nthe air.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "blue",
+            "url": "https://pokeapi.co/api/v2/version/2/"
+          }
+        },
+        {
+          "flavor_text": "Its wings, covered\nwith poisonous\npowders, repel\fwater. This\nallows it to fly\nin the rain.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "yellow",
+            "url": "https://pokeapi.co/api/v2/version/3/"
+          }
+        },
+        {
+          "flavor_text": "It flits from\nflower to flower,\ncollecting honey.\fIt can even\nidentify distant\nflowers in bloom.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "crystal",
+            "url": "https://pokeapi.co/api/v2/version/6/"
+          }
+        },
+        {
+          "flavor_text": "BUTTERFREE has a superior ability to\nsearch for delicious honey from\nflowers.\fIt can even search out, extract, and\ncarry honey from flowers that are\nblooming over six miles from its nest.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "ruby",
+            "url": "https://pokeapi.co/api/v2/version/7/"
+          }
+        },
+        {
+          "flavor_text": "BUTTERFREE has a superior ability to\nsearch for delicious honey from\nflowers.\fIt can even search out, extract, and\ncarry honey from flowers that are\nblooming over six miles from its nest.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "sapphire",
+            "url": "https://pokeapi.co/api/v2/version/8/"
+          }
+        },
+        {
+          "flavor_text": "It has a superior ability to search for\ndelicious honey from flowers. It can seek,\nextract, and carry honey from flowers\nblooming over six miles away.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "emerald",
+            "url": "https://pokeapi.co/api/v2/version/9/"
+          }
+        },
+        {
+          "flavor_text": "The wings are protected by rain-repellent\ndust. As a result, this POKéMON can fly\nabout even in rain.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "firered",
+            "url": "https://pokeapi.co/api/v2/version/10/"
+          }
+        },
+        {
+          "flavor_text": "In battle, it flaps its wings at great\nspeed to release highly toxic dust into\nthe air.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "leafgreen",
+            "url": "https://pokeapi.co/api/v2/version/11/"
+          }
+        },
+        {
+          "flavor_text": "It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "diamond",
+            "url": "https://pokeapi.co/api/v2/version/12/"
+          }
+        },
+        {
+          "flavor_text": "It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "pearl",
+            "url": "https://pokeapi.co/api/v2/version/13/"
+          }
+        },
+        {
+          "flavor_text": "It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "platinum",
+            "url": "https://pokeapi.co/api/v2/version/14/"
+          }
+        },
+        {
+          "flavor_text": "It collects honey every day. It rubs\nhoney onto the hairs on its legs\nto carry it back to its nest.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "heartgold",
+            "url": "https://pokeapi.co/api/v2/version/15/"
+          }
+        },
+        {
+          "flavor_text": "Water-repellent powder on its\nwings enables it to collect honey,\neven in the heaviest of rains.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "soulsilver",
+            "url": "https://pokeapi.co/api/v2/version/16/"
+          }
+        },
+        {
+          "flavor_text": "Il raffole du nectar des fleurs. Il\nest capable de repérer la plus\npetite quantité de pollen.",
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          },
+          "version": {
+            "name": "black",
+            "url": "https://pokeapi.co/api/v2/version/17/"
+          }
+        },
+        {
+          "flavor_text": "It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "black",
+            "url": "https://pokeapi.co/api/v2/version/17/"
+          }
+        },
+        {
+          "flavor_text": "Il raffole du nectar des fleurs. Il\nest capable de repérer la plus\npetite quantité de pollen.",
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          },
+          "version": {
+            "name": "white",
+            "url": "https://pokeapi.co/api/v2/version/18/"
+          }
+        },
+        {
+          "flavor_text": "It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "white",
+            "url": "https://pokeapi.co/api/v2/version/18/"
+          }
+        },
+        {
+          "flavor_text": "It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "black-2",
+            "url": "https://pokeapi.co/api/v2/version/21/"
+          }
+        },
+        {
+          "flavor_text": "It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "white-2",
+            "url": "https://pokeapi.co/api/v2/version/22/"
+          }
+        },
+        {
+          "flavor_text": "はなの　ミツが　だいこうぶつ。\nわずかな　かふんで　はなばたけの\nばしょを　さがしだすことが　できる。",
+          "language": {
+            "name": "ja-Hrkt",
+            "url": "https://pokeapi.co/api/v2/language/1/"
+          },
+          "version": {
+            "name": "x",
+            "url": "https://pokeapi.co/api/v2/version/23/"
+          }
+        },
+        {
+          "flavor_text": "꽃의 꿀을 매우 좋아한다.\n약간의 꽃가루만으로 꽃밭이\n있는 장소를 찾아낼 수 있다.",
+          "language": {
+            "name": "ko",
+            "url": "https://pokeapi.co/api/v2/language/3/"
+          },
+          "version": {
+            "name": "x",
+            "url": "https://pokeapi.co/api/v2/version/23/"
+          }
+        },
+        {
+          "flavor_text": "Il raffole du nectar des fleurs. Il est capable de\nrepérer la plus petite quantité de pollen.",
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          },
+          "version": {
+            "name": "x",
+            "url": "https://pokeapi.co/api/v2/version/23/"
+          }
+        },
+        {
+          "flavor_text": "Es liebt Blütenhonig. Es findet selbst Blumen,\ndie sehr wenig Pollen haben.",
+          "language": {
+            "name": "de",
+            "url": "https://pokeapi.co/api/v2/language/6/"
+          },
+          "version": {
+            "name": "x",
+            "url": "https://pokeapi.co/api/v2/version/23/"
+          }
+        },
+        {
+          "flavor_text": "Adora el néctar de las flores. Puede localizar hasta las\nmás pequeñas cantidades de polen.",
+          "language": {
+            "name": "es",
+            "url": "https://pokeapi.co/api/v2/language/7/"
+          },
+          "version": {
+            "name": "x",
+            "url": "https://pokeapi.co/api/v2/version/23/"
+          }
+        },
+        {
+          "flavor_text": "Adora il nettare dei fiori e riesce a localizzare i campi\nin cui si trova anche una minima quantità di polline.",
+          "language": {
+            "name": "it",
+            "url": "https://pokeapi.co/api/v2/language/8/"
+          },
+          "version": {
+            "name": "x",
+            "url": "https://pokeapi.co/api/v2/version/23/"
+          }
+        },
+        {
+          "flavor_text": "It loves the honey of flowers and can locate\nflower patches that have even tiny amounts\nof pollen.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "x",
+            "url": "https://pokeapi.co/api/v2/version/23/"
+          }
+        },
+        {
+          "flavor_text": "花の　ミツが　大好物。\nわずかな　花粉で　花畑の\n場所を　探し出すことが　できる。",
+          "language": {
+            "name": "ja",
+            "url": "https://pokeapi.co/api/v2/language/11/"
+          },
+          "version": {
+            "name": "x",
+            "url": "https://pokeapi.co/api/v2/version/23/"
+          }
+        },
+        {
+          "flavor_text": "ハネは　みずを　はじく　りんぷんに\nまもられている。あめの　ひでも\nそらを　とぶことが　できる。",
+          "language": {
+            "name": "ja-Hrkt",
+            "url": "https://pokeapi.co/api/v2/language/1/"
+          },
+          "version": {
+            "name": "y",
+            "url": "https://pokeapi.co/api/v2/version/24/"
+          }
+        },
+        {
+          "flavor_text": "물을 튕겨내는 가루가\n날개를 보호하고 있다. 비가 오는 날에도\n하늘을 날 수 있다.",
+          "language": {
+            "name": "ko",
+            "url": "https://pokeapi.co/api/v2/language/3/"
+          },
+          "version": {
+            "name": "y",
+            "url": "https://pokeapi.co/api/v2/version/24/"
+          }
+        },
+        {
+          "flavor_text": "Ses ailes sont recouvertes d’une poudre les\nprotégeant de la pluie. Ce Pokémon peut donc voler\npendant de grosses averses.",
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          },
+          "version": {
+            "name": "y",
+            "url": "https://pokeapi.co/api/v2/version/24/"
+          }
+        },
+        {
+          "flavor_text": "Seine Flügel sind mit Wasser abweisendem Staub\nüberzogen. Daher kann dieses Pokémon auch bei\nRegen fliegen.",
+          "language": {
+            "name": "de",
+            "url": "https://pokeapi.co/api/v2/language/6/"
+          },
+          "version": {
+            "name": "y",
+            "url": "https://pokeapi.co/api/v2/version/24/"
+          }
+        },
+        {
+          "flavor_text": "Tiene las alas protegidas con una capa impermeable,\nde ahí que pueda volar también cuando llueve.",
+          "language": {
+            "name": "es",
+            "url": "https://pokeapi.co/api/v2/language/7/"
+          },
+          "version": {
+            "name": "y",
+            "url": "https://pokeapi.co/api/v2/version/24/"
+          }
+        },
+        {
+          "flavor_text": "Una polvere idrorepellente gli ricopre le ali,\npermettendogli di volare anche sotto la pioggia.",
+          "language": {
+            "name": "it",
+            "url": "https://pokeapi.co/api/v2/language/8/"
+          },
+          "version": {
+            "name": "y",
+            "url": "https://pokeapi.co/api/v2/version/24/"
+          }
+        },
+        {
+          "flavor_text": "The wings are protected by rain-repellent dust.\nAs a result, this Pokémon can fly about even\nin rain.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "y",
+            "url": "https://pokeapi.co/api/v2/version/24/"
+          }
+        },
+        {
+          "flavor_text": "羽は　水を　弾く　りんぷんに\n守られている。雨の　日でも\n空を　飛ぶことが　できる。",
+          "language": {
+            "name": "ja",
+            "url": "https://pokeapi.co/api/v2/language/11/"
+          },
+          "version": {
+            "name": "y",
+            "url": "https://pokeapi.co/api/v2/version/24/"
+          }
+        },
+        {
+          "flavor_text": "おいしい　はなの　ミツを　さがす　のうりょくに\nすぐれ　すみかから　１０キロはなれた　ばしょに\nさく　はなから　ミツを　あつめて　はこんでいる。",
+          "language": {
+            "name": "ja-Hrkt",
+            "url": "https://pokeapi.co/api/v2/language/1/"
+          },
+          "version": {
+            "name": "omega-ruby",
+            "url": "https://pokeapi.co/api/v2/version/25/"
+          }
+        },
+        {
+          "flavor_text": "맛있는 꽃의 꿀을 찾는 능력이\n뛰어나서 사는 곳에서 10km 떨어진 장소에\n핀 꽃에서 꿀을 모아 옮긴다.",
+          "language": {
+            "name": "ko",
+            "url": "https://pokeapi.co/api/v2/language/3/"
+          },
+          "version": {
+            "name": "omega-ruby",
+            "url": "https://pokeapi.co/api/v2/version/25/"
+          }
+        },
+        {
+          "flavor_text": "Papilusion est très doué pour repérer le délicieux nectar qu’il\nbutine dans les fleurs. Il peut détecter, extraire et transporter\nle nectar de fleurs situées à plus de 10 km de son nid.",
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          },
+          "version": {
+            "name": "omega-ruby",
+            "url": "https://pokeapi.co/api/v2/version/25/"
+          }
+        },
+        {
+          "flavor_text": "Smettbos größte Fähigkeit ist das Aufspüren köstlichen\nBlütenhonigs. Es findet sogar Honig in Blumen, die fast\n10 km von seinem Nest entfernt blühen.",
+          "language": {
+            "name": "de",
+            "url": "https://pokeapi.co/api/v2/language/6/"
+          },
+          "version": {
+            "name": "omega-ruby",
+            "url": "https://pokeapi.co/api/v2/version/25/"
+          }
+        },
+        {
+          "flavor_text": "Butterfree tiene una habilidad especial para encontrar\ndelicioso polen en las flores. Puede localizar, extraer y\ntransportar polen de flores que estén floreciendo a 10 km\nde distancia de su nido.",
+          "language": {
+            "name": "es",
+            "url": "https://pokeapi.co/api/v2/language/7/"
+          },
+          "version": {
+            "name": "omega-ruby",
+            "url": "https://pokeapi.co/api/v2/version/25/"
+          }
+        },
+        {
+          "flavor_text": "Butterfree è dotato di abilità molto raffinate per individuare\nil delizioso nettare dei fiori. Riesce a trovare, estrarre\ne trasportare il nettare dai fiori in boccio al nido anche\nper 10 km.",
+          "language": {
+            "name": "it",
+            "url": "https://pokeapi.co/api/v2/language/8/"
+          },
+          "version": {
+            "name": "omega-ruby",
+            "url": "https://pokeapi.co/api/v2/version/25/"
+          }
+        },
+        {
+          "flavor_text": "Butterfree has a superior ability to search for delicious honey\nfrom flowers. It can even search out, extract, and carry honey\nfrom flowers that are blooming over six miles from its nest.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "omega-ruby",
+            "url": "https://pokeapi.co/api/v2/version/25/"
+          }
+        },
+        {
+          "flavor_text": "美味しい　花の　ミツを　探す　能力に\n優れ　すみかから　１０キロ離れた　場所に\n咲く　花から　ミツを　集めて　運んでいる。",
+          "language": {
+            "name": "ja",
+            "url": "https://pokeapi.co/api/v2/language/11/"
+          },
+          "version": {
+            "name": "omega-ruby",
+            "url": "https://pokeapi.co/api/v2/version/25/"
+          }
+        },
+        {
+          "flavor_text": "おいしい　はなの　ミツを　さがす　のうりょくに\nすぐれ　すみかから　１０キロはなれた　ばしょに\nさく　はなから　ミツを　あつめて　はこんでいる。",
+          "language": {
+            "name": "ja-Hrkt",
+            "url": "https://pokeapi.co/api/v2/language/1/"
+          },
+          "version": {
+            "name": "alpha-sapphire",
+            "url": "https://pokeapi.co/api/v2/version/26/"
+          }
+        },
+        {
+          "flavor_text": "맛있는 꽃의 꿀을 찾는 능력이\n뛰어나서 사는 곳에서 10km 떨어진 장소에\n핀 꽃에서 꿀을 모아 옮긴다.",
+          "language": {
+            "name": "ko",
+            "url": "https://pokeapi.co/api/v2/language/3/"
+          },
+          "version": {
+            "name": "alpha-sapphire",
+            "url": "https://pokeapi.co/api/v2/version/26/"
+          }
+        },
+        {
+          "flavor_text": "Papilusion est très doué pour repérer le délicieux nectar qu’il\nbutine dans les fleurs. Il peut détecter, extraire et transporter\nle nectar de fleurs situées à plus de 10 km de son nid.",
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          },
+          "version": {
+            "name": "alpha-sapphire",
+            "url": "https://pokeapi.co/api/v2/version/26/"
+          }
+        },
+        {
+          "flavor_text": "Smettbos größte Fähigkeit ist das Aufspüren köstlichen\nBlütenhonigs. Es findet sogar Honig in Blumen, die fast\n10 km von seinem Nest entfernt blühen.",
+          "language": {
+            "name": "de",
+            "url": "https://pokeapi.co/api/v2/language/6/"
+          },
+          "version": {
+            "name": "alpha-sapphire",
+            "url": "https://pokeapi.co/api/v2/version/26/"
+          }
+        },
+        {
+          "flavor_text": "Butterfree tiene una habilidad especial para encontrar\ndelicioso polen en las flores. Puede localizar, extraer y\ntransportar polen de flores que estén floreciendo a 10 km\nde distancia de su nido.",
+          "language": {
+            "name": "es",
+            "url": "https://pokeapi.co/api/v2/language/7/"
+          },
+          "version": {
+            "name": "alpha-sapphire",
+            "url": "https://pokeapi.co/api/v2/version/26/"
+          }
+        },
+        {
+          "flavor_text": "Butterfree è dotato di abilità molto raffinate per individuare\nil delizioso nettare dei fiori. Riesce a trovare, estrarre\ne trasportare il nettare dai fiori in boccio al nido anche\nper 10 km.",
+          "language": {
+            "name": "it",
+            "url": "https://pokeapi.co/api/v2/language/8/"
+          },
+          "version": {
+            "name": "alpha-sapphire",
+            "url": "https://pokeapi.co/api/v2/version/26/"
+          }
+        },
+        {
+          "flavor_text": "Butterfree has a superior ability to search for delicious honey\nfrom flowers. It can even search out, extract, and carry honey\nfrom flowers that are blooming over six miles from its nest.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "alpha-sapphire",
+            "url": "https://pokeapi.co/api/v2/version/26/"
+          }
+        },
+        {
+          "flavor_text": "美味しい　花の　ミツを　探す　能力に\n優れ　すみかから　１０キロ離れた　場所に\n咲く　花から　ミツを　集めて　運んでいる。",
+          "language": {
+            "name": "ja",
+            "url": "https://pokeapi.co/api/v2/language/11/"
+          },
+          "version": {
+            "name": "alpha-sapphire",
+            "url": "https://pokeapi.co/api/v2/version/26/"
+          }
+        },
+        {
+          "flavor_text": "おおきな　めを　よく　かんさつすると\nじつは　ちいさな　めが　むすうに\nあつまって　できているのが　わかる。",
+          "language": {
+            "name": "ja-Hrkt",
+            "url": "https://pokeapi.co/api/v2/language/1/"
+          },
+          "version": {
+            "name": "sun",
+            "url": "https://pokeapi.co/api/v2/version/27/"
+          }
+        },
+        {
+          "flavor_text": "커다란 눈을 잘 관찰하면\n사실 작은 눈이 무수히 모여\n만들어진 것을 알 수 있다.",
+          "language": {
+            "name": "ko",
+            "url": "https://pokeapi.co/api/v2/language/3/"
+          },
+          "version": {
+            "name": "sun",
+            "url": "https://pokeapi.co/api/v2/version/27/"
+          }
+        },
+        {
+          "flavor_text": "仔細觀察那雙大眼睛的話，\n會發現那其實是由無數小眼睛\n聚集在一起而形成的。",
+          "language": {
+            "name": "zh-Hant",
+            "url": "https://pokeapi.co/api/v2/language/4/"
+          },
+          "version": {
+            "name": "sun",
+            "url": "https://pokeapi.co/api/v2/version/27/"
+          }
+        },
+        {
+          "flavor_text": "Si l’on regarde ses grands yeux de plus près,\non remarque qu’il s’agit en réalité d’une\nmultitude de petits yeux réunis.",
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          },
+          "version": {
+            "name": "sun",
+            "url": "https://pokeapi.co/api/v2/version/27/"
+          }
+        },
+        {
+          "flavor_text": "Bei genauerer Betrachtung zeigt sich, dass\nseine zwei großen Augen jeweils aus einer\nVielzahl an kleineren Augen bestehen.",
+          "language": {
+            "name": "de",
+            "url": "https://pokeapi.co/api/v2/language/6/"
+          },
+          "version": {
+            "name": "sun",
+            "url": "https://pokeapi.co/api/v2/version/27/"
+          }
+        },
+        {
+          "flavor_text": "Al mirar sus grandes ojos desde cerca, puede\nobservarse como en realidad están compuestos\nde incontables ojos diminutos.",
+          "language": {
+            "name": "es",
+            "url": "https://pokeapi.co/api/v2/language/7/"
+          },
+          "version": {
+            "name": "sun",
+            "url": "https://pokeapi.co/api/v2/version/27/"
+          }
+        },
+        {
+          "flavor_text": "Osservando da vicino i suoi grandi occhi\nsi nota che in realtà sono composti da una\nmiriade di minuscoli occhietti.",
+          "language": {
+            "name": "it",
+            "url": "https://pokeapi.co/api/v2/language/8/"
+          },
+          "version": {
+            "name": "sun",
+            "url": "https://pokeapi.co/api/v2/version/27/"
+          }
+        },
+        {
+          "flavor_text": "Close examination of its large eyes reveals that\neach eye is composed of a myriad of tiny eyes.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "sun",
+            "url": "https://pokeapi.co/api/v2/version/27/"
+          }
+        },
+        {
+          "flavor_text": "大きな　眼を　よく　観察すると\n実は　小さな　眼が　無数に\n集まって　できているのが　わかる。",
+          "language": {
+            "name": "ja",
+            "url": "https://pokeapi.co/api/v2/language/11/"
+          },
+          "version": {
+            "name": "sun",
+            "url": "https://pokeapi.co/api/v2/version/27/"
+          }
+        },
+        {
+          "flavor_text": "仔细观察那对大眼睛的话，\n会发现其实是许许多多小眼睛\n聚集在一起形成的。",
+          "language": {
+            "name": "zh-Hans",
+            "url": "https://pokeapi.co/api/v2/language/12/"
+          },
+          "version": {
+            "name": "sun",
+            "url": "https://pokeapi.co/api/v2/version/27/"
+          }
+        },
+        {
+          "flavor_text": "ほかの　ポケモンに　おそわれると\nどくの　りんぷんを　まきちらしながら\nはばたいて　ていこう　するのだ。",
+          "language": {
+            "name": "ja-Hrkt",
+            "url": "https://pokeapi.co/api/v2/language/1/"
+          },
+          "version": {
+            "name": "moon",
+            "url": "https://pokeapi.co/api/v2/version/28/"
+          }
+        },
+        {
+          "flavor_text": "다른 포켓몬에게 습격당하면\n독 인분을 흩뿌리며\n날갯짓하여 저항한다.",
+          "language": {
+            "name": "ko",
+            "url": "https://pokeapi.co/api/v2/language/3/"
+          },
+          "version": {
+            "name": "moon",
+            "url": "https://pokeapi.co/api/v2/version/28/"
+          }
+        },
+        {
+          "flavor_text": "如果被其他寶可夢襲擊，\n就會一邊散布有毒的鱗粉，\n一邊拍動翅膀抵抗。",
+          "language": {
+            "name": "zh-Hant",
+            "url": "https://pokeapi.co/api/v2/language/4/"
+          },
+          "version": {
+            "name": "moon",
+            "url": "https://pokeapi.co/api/v2/version/28/"
+          }
+        },
+        {
+          "flavor_text": "Pour se défendre contre les agressions d’autres\nPokémon, il bat des ailes en éparpillant autour\nde lui un nuage de poussière toxique.",
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          },
+          "version": {
+            "name": "moon",
+            "url": "https://pokeapi.co/api/v2/version/28/"
+          }
+        },
+        {
+          "flavor_text": "Wird es von einem anderen Pokémon angegriffen,\nwehrt es sich, indem es mit den Flügeln schlägt\nund giftigen Flügelstaub verstreut.",
+          "language": {
+            "name": "de",
+            "url": "https://pokeapi.co/api/v2/language/6/"
+          },
+          "version": {
+            "name": "moon",
+            "url": "https://pokeapi.co/api/v2/version/28/"
+          }
+        },
+        {
+          "flavor_text": "Cuando lo atacan, Butterfree aletea con fuerza\ny esparce escamas venenosas con las que hace\nfrente a su adversario.",
+          "language": {
+            "name": "es",
+            "url": "https://pokeapi.co/api/v2/language/7/"
+          },
+          "version": {
+            "name": "moon",
+            "url": "https://pokeapi.co/api/v2/version/28/"
+          }
+        },
+        {
+          "flavor_text": "Quando viene attaccato da altri Pokémon,\nsi difende sbattendo le ali e spargendo intorno\na sé polveri velenose.",
+          "language": {
+            "name": "it",
+            "url": "https://pokeapi.co/api/v2/language/8/"
+          },
+          "version": {
+            "name": "moon",
+            "url": "https://pokeapi.co/api/v2/version/28/"
+          }
+        },
+        {
+          "flavor_text": "When attacked by other Pokémon, it defends\nitself by scattering its poisonous scales and\nfluttering its wings.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "moon",
+            "url": "https://pokeapi.co/api/v2/version/28/"
+          }
+        },
+        {
+          "flavor_text": "他の　ポケモンに　襲われると\n毒の　鱗粉を　撒き散らしながら\n羽ばたいて　抵抗　するのだ。",
+          "language": {
+            "name": "ja",
+            "url": "https://pokeapi.co/api/v2/language/11/"
+          },
+          "version": {
+            "name": "moon",
+            "url": "https://pokeapi.co/api/v2/version/28/"
+          }
+        },
+        {
+          "flavor_text": "如果被其他宝可梦袭击，\n就会一边挥洒有毒的鳞粉，\n一边拍动翅膀抵抗。",
+          "language": {
+            "name": "zh-Hans",
+            "url": "https://pokeapi.co/api/v2/language/12/"
+          },
+          "version": {
+            "name": "moon",
+            "url": "https://pokeapi.co/api/v2/version/28/"
+          }
+        },
+        {
+          "flavor_text": "ハネを　つつむ　りんぷんは　もうどく。\nキャタピーを　ねらう　とりポケモンを\nみつけると　ふりかけて　おいはらうぞ。",
+          "language": {
+            "name": "ja-Hrkt",
+            "url": "https://pokeapi.co/api/v2/language/1/"
+          },
+          "version": {
+            "name": "ultra-sun",
+            "url": "https://pokeapi.co/api/v2/version/29/"
+          }
+        },
+        {
+          "flavor_text": "날개를 감싼 인분은 맹독이다.\n캐터피를 노리는 새포켓몬을\n발견하면 흩뿌려 내쫓는다.",
+          "language": {
+            "name": "ko",
+            "url": "https://pokeapi.co/api/v2/language/3/"
+          },
+          "version": {
+            "name": "ultra-sun",
+            "url": "https://pokeapi.co/api/v2/version/29/"
+          }
+        },
+        {
+          "flavor_text": "附著在翅膀上的鱗粉帶有劇毒，\n一旦發現有鳥寶可夢要襲擊綠毛蟲，\n就會撒出鱗粉來趕跑對方。",
+          "language": {
+            "name": "zh-Hant",
+            "url": "https://pokeapi.co/api/v2/language/4/"
+          },
+          "version": {
+            "name": "ultra-sun",
+            "url": "https://pokeapi.co/api/v2/version/29/"
+          }
+        },
+        {
+          "flavor_text": "Lorsqu’il surprend un Pokémon oiseau attaquant\nun Chenipan, il répand les écailles très toxiques\nqui recouvrent ses ailes sur l’assaillant.",
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          },
+          "version": {
+            "name": "ultra-sun",
+            "url": "https://pokeapi.co/api/v2/version/29/"
+          }
+        },
+        {
+          "flavor_text": "Sieht es ein Raupy, das von Vogel-Pokémon\nangegriffen wird, schlägt es diese mit seinem\nhochgiftigen Flügelstaub in die Flucht.",
+          "language": {
+            "name": "de",
+            "url": "https://pokeapi.co/api/v2/language/6/"
+          },
+          "version": {
+            "name": "ultra-sun",
+            "url": "https://pokeapi.co/api/v2/version/29/"
+          }
+        },
+        {
+          "flavor_text": "Si un Pokémon pájaro acecha a un Caterpie,\nButterfree esparcirá las escamas venenosas\nque recubren sus alas para ahuyentarlo.",
+          "language": {
+            "name": "es",
+            "url": "https://pokeapi.co/api/v2/language/7/"
+          },
+          "version": {
+            "name": "ultra-sun",
+            "url": "https://pokeapi.co/api/v2/version/29/"
+          }
+        },
+        {
+          "flavor_text": "Se vede dei Pokémon alati attaccare Caterpie,\nli scaccia cospargendoli con la velenosissima \npolvere che ricopre le sue ali.",
+          "language": {
+            "name": "it",
+            "url": "https://pokeapi.co/api/v2/language/8/"
+          },
+          "version": {
+            "name": "ultra-sun",
+            "url": "https://pokeapi.co/api/v2/version/29/"
+          }
+        },
+        {
+          "flavor_text": "Its wings are covered in toxic scales. If it finds\nbird Pokémon going after Caterpie, Butterfree\nsprinkles its scales on them to drive them off.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "ultra-sun",
+            "url": "https://pokeapi.co/api/v2/version/29/"
+          }
+        },
+        {
+          "flavor_text": "羽を　包む　りん粉は　猛毒。\nキャタピーを　狙う　とりポケモンを\n見つけると　ふりかけて　追い払うぞ。",
+          "language": {
+            "name": "ja",
+            "url": "https://pokeapi.co/api/v2/language/11/"
+          },
+          "version": {
+            "name": "ultra-sun",
+            "url": "https://pokeapi.co/api/v2/version/29/"
+          }
+        },
+        {
+          "flavor_text": "翅膀上覆盖着的鳞粉有剧毒。\n如果发现有鸟宝可梦要袭击绿毛虫，\n就会撒出鳞粉将它赶跑。",
+          "language": {
+            "name": "zh-Hans",
+            "url": "https://pokeapi.co/api/v2/language/12/"
+          },
+          "version": {
+            "name": "ultra-sun",
+            "url": "https://pokeapi.co/api/v2/version/29/"
+          }
+        },
+        {
+          "flavor_text": "きれいな　はなの　ミツが　こうぶつ。\nはなばたけで　アブリーとの　しれつな\nなわばりあらそいを　くりひろげる。",
+          "language": {
+            "name": "ja-Hrkt",
+            "url": "https://pokeapi.co/api/v2/language/1/"
+          },
+          "version": {
+            "name": "ultra-moon",
+            "url": "https://pokeapi.co/api/v2/version/30/"
+          }
+        },
+        {
+          "flavor_text": "예쁜 꽃의 꿀을 좋아한다.\n꽃밭에서 에블리와 치열한\n영역 싸움을 벌인다.",
+          "language": {
+            "name": "ko",
+            "url": "https://pokeapi.co/api/v2/language/3/"
+          },
+          "version": {
+            "name": "ultra-moon",
+            "url": "https://pokeapi.co/api/v2/version/30/"
+          }
+        },
+        {
+          "flavor_text": "愛吃美麗花朵的花蜜，\n總是在花圃和萌虻\n展開激烈的地盤爭奪戰。",
+          "language": {
+            "name": "zh-Hant",
+            "url": "https://pokeapi.co/api/v2/language/4/"
+          },
+          "version": {
+            "name": "ultra-moon",
+            "url": "https://pokeapi.co/api/v2/version/30/"
+          }
+        },
+        {
+          "flavor_text": "Il raffole du nectar des plus jolies fleurs.\nDans les prairies, les luttes territoriales\nl’opposant à Bombydou sont impitoyables.",
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          },
+          "version": {
+            "name": "ultra-moon",
+            "url": "https://pokeapi.co/api/v2/version/30/"
+          }
+        },
+        {
+          "flavor_text": "Es liebt den Blütenhonig schöner Blumen.\nAuf Blumenfeldern liefert es sich erbitterte\nRevierkämpfe mit Wommel.",
+          "language": {
+            "name": "de",
+            "url": "https://pokeapi.co/api/v2/language/6/"
+          },
+          "version": {
+            "name": "ultra-moon",
+            "url": "https://pokeapi.co/api/v2/version/30/"
+          }
+        },
+        {
+          "flavor_text": "Adora el néctar de las flores más bellas. Libra\nferoces disputas territoriales en los prados con\nlos Cutiefly.",
+          "language": {
+            "name": "es",
+            "url": "https://pokeapi.co/api/v2/language/7/"
+          },
+          "version": {
+            "name": "ultra-moon",
+            "url": "https://pokeapi.co/api/v2/version/30/"
+          }
+        },
+        {
+          "flavor_text": "È ghiotto del nettare dei fiori più belli.\nSi contende i prati in fiore con Cutiefly in furiose\nlotte per il territorio.",
+          "language": {
+            "name": "it",
+            "url": "https://pokeapi.co/api/v2/language/8/"
+          },
+          "version": {
+            "name": "ultra-moon",
+            "url": "https://pokeapi.co/api/v2/version/30/"
+          }
+        },
+        {
+          "flavor_text": "Nectar from pretty flowers is its favorite food.\nIn fields of flowers, it has heated battles with\nCutiefly for territory.",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "version": {
+            "name": "ultra-moon",
+            "url": "https://pokeapi.co/api/v2/version/30/"
+          }
+        },
+        {
+          "flavor_text": "綺麗な　花の　ミツが　好物。\n花畑で　アブリーとの　熾烈な\n縄張り争いを　繰り広げる。",
+          "language": {
+            "name": "ja",
+            "url": "https://pokeapi.co/api/v2/language/11/"
+          },
+          "version": {
+            "name": "ultra-moon",
+            "url": "https://pokeapi.co/api/v2/version/30/"
+          }
+        },
+        {
+          "flavor_text": "喜食美丽花儿的花蜜。\n会在花圃里和萌虻\n展开激烈的领地之争。",
+          "language": {
+            "name": "zh-Hans",
+            "url": "https://pokeapi.co/api/v2/language/12/"
+          },
+          "version": {
+            "name": "ultra-moon",
+            "url": "https://pokeapi.co/api/v2/version/30/"
+          }
+        }
+      ],
+      "form_descriptions": [],
+      "forms_switchable": false,
+      "gender_rate": 4,
+      "genera": [
+        {
+          "genus": "ちょうちょポケモン",
+          "language": {
+            "name": "ja-Hrkt",
+            "url": "https://pokeapi.co/api/v2/language/1/"
+          }
+        },
+        {
+          "genus": "나비포켓몬",
+          "language": {
+            "name": "ko",
+            "url": "https://pokeapi.co/api/v2/language/3/"
+          }
+        },
+        {
+          "genus": "蝴蝶寶可夢",
+          "language": {
+            "name": "zh-Hant",
+            "url": "https://pokeapi.co/api/v2/language/4/"
+          }
+        },
+        {
+          "genus": "Pokémon Papillon",
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          }
+        },
+        {
+          "genus": "Falter",
+          "language": {
+            "name": "de",
+            "url": "https://pokeapi.co/api/v2/language/6/"
+          }
+        },
+        {
+          "genus": "Pokémon Mariposa",
+          "language": {
+            "name": "es",
+            "url": "https://pokeapi.co/api/v2/language/7/"
+          }
+        },
+        {
+          "genus": "Pokémon Farfalla",
+          "language": {
+            "name": "it",
+            "url": "https://pokeapi.co/api/v2/language/8/"
+          }
+        },
+        {
+          "genus": "Butterfly Pokémon",
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          }
+        },
+        {
+          "genus": "ちょうちょポケモン",
+          "language": {
+            "name": "ja",
+            "url": "https://pokeapi.co/api/v2/language/11/"
+          }
+        },
+        {
+          "genus": "蝴蝶宝可梦",
+          "language": {
+            "name": "zh-Hans",
+            "url": "https://pokeapi.co/api/v2/language/12/"
+          }
+        }
+      ],
+      "generation": {
+        "name": "generation-i",
+        "url": "https://pokeapi.co/api/v2/generation/1/"
+      },
+      "growth_rate": {
+        "name": "medium",
+        "url": "https://pokeapi.co/api/v2/growth-rate/2/"
+      },
+      "habitat": {
+        "name": "forest",
+        "url": "https://pokeapi.co/api/v2/pokemon-habitat/2/"
+      },
+      "has_gender_differences": true,
+      "hatch_counter": 15,
+      "id": 12,
+      "is_baby": false,
+      "name": "butterfree",
+      "names": [
+        {
+          "language": {
+            "name": "ja-Hrkt",
+            "url": "https://pokeapi.co/api/v2/language/1/"
+          },
+          "name": "バタフリー"
+        },
+        {
+          "language": {
+            "name": "roomaji",
+            "url": "https://pokeapi.co/api/v2/language/2/"
+          },
+          "name": "Butterfree"
+        },
+        {
+          "language": {
+            "name": "ko",
+            "url": "https://pokeapi.co/api/v2/language/3/"
+          },
+          "name": "버터플"
+        },
+        {
+          "language": {
+            "name": "zh-Hant",
+            "url": "https://pokeapi.co/api/v2/language/4/"
+          },
+          "name": "巴大蝶"
+        },
+        {
+          "language": {
+            "name": "fr",
+            "url": "https://pokeapi.co/api/v2/language/5/"
+          },
+          "name": "Papilusion"
+        },
+        {
+          "language": {
+            "name": "de",
+            "url": "https://pokeapi.co/api/v2/language/6/"
+          },
+          "name": "Smettbo"
+        },
+        {
+          "language": {
+            "name": "es",
+            "url": "https://pokeapi.co/api/v2/language/7/"
+          },
+          "name": "Butterfree"
+        },
+        {
+          "language": {
+            "name": "it",
+            "url": "https://pokeapi.co/api/v2/language/8/"
+          },
+          "name": "Butterfree"
+        },
+        {
+          "language": {
+            "name": "en",
+            "url": "https://pokeapi.co/api/v2/language/9/"
+          },
+          "name": "Butterfree"
+        },
+        {
+          "language": {
+            "name": "ja",
+            "url": "https://pokeapi.co/api/v2/language/11/"
+          },
+          "name": "バタフリー"
+        },
+        {
+          "language": {
+            "name": "zh-Hans",
+            "url": "https://pokeapi.co/api/v2/language/12/"
+          },
+          "name": "巴大蝶"
+        }
+      ],
+      "order": 12,
+      "pal_park_encounters": [
+        {
+          "area": {
+            "name": "forest",
+            "url": "https://pokeapi.co/api/v2/pal-park-area/1/"
+          },
+          "base_score": 70,
+          "rate": 20
+        }
+      ],
+      "pokedex_numbers": [
+        {
+          "entry_number": 12,
+          "pokedex": {
+            "name": "national",
+            "url": "https://pokeapi.co/api/v2/pokedex/1/"
+          }
+        },
+        {
+          "entry_number": 12,
+          "pokedex": {
+            "name": "kanto",
+            "url": "https://pokeapi.co/api/v2/pokedex/2/"
+          }
+        },
+        {
+          "entry_number": 26,
+          "pokedex": {
+            "name": "original-johto",
+            "url": "https://pokeapi.co/api/v2/pokedex/3/"
+          }
+        },
+        {
+          "entry_number": 26,
+          "pokedex": {
+            "name": "updated-johto",
+            "url": "https://pokeapi.co/api/v2/pokedex/7/"
+          }
+        },
+        {
+          "entry_number": 25,
+          "pokedex": {
+            "name": "kalos-central",
+            "url": "https://pokeapi.co/api/v2/pokedex/12/"
+          }
+        },
+        {
+          "entry_number": 19,
+          "pokedex": {
+            "name": "original-alola",
+            "url": "https://pokeapi.co/api/v2/pokedex/16/"
+          }
+        },
+        {
+          "entry_number": 19,
+          "pokedex": {
+            "name": "original-melemele",
+            "url": "https://pokeapi.co/api/v2/pokedex/17/"
+          }
+        },
+        {
+          "entry_number": 10,
+          "pokedex": {
+            "name": "original-akala",
+            "url": "https://pokeapi.co/api/v2/pokedex/18/"
+          }
+        },
+        {
+          "entry_number": 19,
+          "pokedex": {
+            "name": "updated-alola",
+            "url": "https://pokeapi.co/api/v2/pokedex/21/"
+          }
+        },
+        {
+          "entry_number": 19,
+          "pokedex": {
+            "name": "updated-melemele",
+            "url": "https://pokeapi.co/api/v2/pokedex/22/"
+          }
+        },
+        {
+          "entry_number": 10,
+          "pokedex": {
+            "name": "updated-akala",
+            "url": "https://pokeapi.co/api/v2/pokedex/23/"
+          }
+        }
+      ],
+      "shape": {
+        "name": "bug-wings",
+        "url": "https://pokeapi.co/api/v2/pokemon-shape/13/"
+      },
+      "varieties": [
+        {
+          "is_default": true,
+          "pokemon": {
+            "name": "butterfree",
+            "url": "https://pokeapi.co/api/v2/pokemon/12/"
+          }
+        }
+      ]
+    },
+    "translation": {
+      "success": {
+        "total": 1
+      },
+      "contents": {
+        "translated": "'t collects honey every day. 't rubs honey onto the hairs on its forks to carryeth 't back to its aery.<br>Water-repellent powder on its wings enables it to collect honey,  even in the heav­ iest of rains.<br>In battle,  it flaps its wings at high speed to release highly toxic dust into the air.<br>In battle,  it flaps its wings at high speed to release highly toxic dust into the air.<br>Its wings,  covered with poisonous powders,  repel water. This allows it to fly in the rain.<br>It flits from flower to flower,  collecting honey. It can even identify distant flowers in bloom.<br>BUTTERFREE has a superior ability to search for delicious honey from flowers. It can even search out,  extract,  and carry honey from flowers that are blooming over six miles from its nest.<br>BUTTERFREE has a superior ability to search for delicious honey from flowers. It can even search out,  extract,  and carry honey from flowers that are blooming over six miles from its nest.<br>It has a superior ability to search for delicious honey from flowers. It can seek,  extract,  and carry honey from flowers blooming over six miles away.<br>The wings are protected by rain-repellent dust. As a result,  this POKéMON can fly about even in rain.<br>In battle,  it flaps its wings at great speed to release highly toxic dust into the air.<br>It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.<br>It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.<br>It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.<br>It collects honey every day. It rubs honey onto the hairs on its legs to carry it back to its nest.<br>Water-repellent powder on its wings enables it to collect honey,  even in the heaviest of rains.<br>It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.<br>It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.<br>It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.<br>It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.<br>It loves the honey of flowers and can locate flower patches that have even tiny amounts of pollen.<br>The wings are protected by rain-repellent dust. As a result,  this Pokémon can fly about even in rain.<br>Butterfree has a superior ability to search for delicious honey from flowers. It can even search out,  extract,  and carry honey from flowers that are blooming over six miles from its nest.<br>Butterfree has a superior ability to search for delicious honey from flowers. It can even search out,  extract,  and carry honey from flowers that are blooming over six miles from its nest.<br>Close examination of its large eyes reveals that each eye is composed of a myriad of tiny eyes.<br>When attacked by other Pokémon,  it defends itself by scattering its poisonous scales and fluttering its wings.<br>Its wings are covered in toxic scales. If it finds bird Pokémon going after Caterpie,  Butterfree sprinkles its scales on them to drive them off.<br>Nectar from pretty flowers is its favorite food. In fields of flowers,  it has heated battles with Cutiefly for territory.",
+        "text": "It collects honey\nevery day. It rubs\nhoney onto the\fhairs on its legs\nto carry it back\nto its nest.<br>Water-repellent\npowder on its\nwings enables it\fto collect honey,\neven in the heav­\niest of rains.<br>In battle, it\nflaps its wings\nat high speed to\frelease highly\ntoxic dust into\nthe air.<br>In battle, it\nflaps its wings\nat high speed to\frelease highly\ntoxic dust into\nthe air.<br>Its wings, covered\nwith poisonous\npowders, repel\fwater. This\nallows it to fly\nin the rain.<br>It flits from\nflower to flower,\ncollecting honey.\fIt can even\nidentify distant\nflowers in bloom.<br>BUTTERFREE has a superior ability to\nsearch for delicious honey from\nflowers.\fIt can even search out, extract, and\ncarry honey from flowers that are\nblooming over six miles from its nest.<br>BUTTERFREE has a superior ability to\nsearch for delicious honey from\nflowers.\fIt can even search out, extract, and\ncarry honey from flowers that are\nblooming over six miles from its nest.<br>It has a superior ability to search for\ndelicious honey from flowers. It can seek,\nextract, and carry honey from flowers\nblooming over six miles away.<br>The wings are protected by rain-repellent\ndust. As a result, this POKéMON can fly\nabout even in rain.<br>In battle, it flaps its wings at great\nspeed to release highly toxic dust into\nthe air.<br>It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen.<br>It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen.<br>It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen.<br>It collects honey every day. It rubs\nhoney onto the hairs on its legs\nto carry it back to its nest.<br>Water-repellent powder on its\nwings enables it to collect honey,\neven in the heaviest of rains.<br>It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen.<br>It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen.<br>It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen.<br>It loves the honey of flowers and\ncan locate flower patches that\nhave even tiny amounts of pollen.<br>It loves the honey of flowers and can locate\nflower patches that have even tiny amounts\nof pollen.<br>The wings are protected by rain-repellent dust.\nAs a result, this Pokémon can fly about even\nin rain.<br>Butterfree has a superior ability to search for delicious honey\nfrom flowers. It can even search out, extract, and carry honey\nfrom flowers that are blooming over six miles from its nest.<br>Butterfree has a superior ability to search for delicious honey\nfrom flowers. It can even search out, extract, and carry honey\nfrom flowers that are blooming over six miles from its nest.<br>Close examination of its large eyes reveals that\neach eye is composed of a myriad of tiny eyes.<br>When attacked by other Pokémon, it defends\nitself by scattering its poisonous scales and\nfluttering its wings.<br>Its wings are covered in toxic scales. If it finds\nbird Pokémon going after Caterpie, Butterfree\nsprinkles its scales on them to drive them off.<br>Nectar from pretty flowers is its favorite food.\nIn fields of flowers, it has heated battles with\nCutiefly for territory.",
+        "translation": "shakespeare"
+      }
+    }
+  }
+}
